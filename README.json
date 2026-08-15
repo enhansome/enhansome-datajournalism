@@ -103,7 +103,7 @@
             "last_commit": "2026-08-05T06:11:04Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 313975
+            "stars": 314134
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2026-08-04T19:54:53Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78093
+            "stars": 78100
           }
         },
         {
@@ -131,7 +131,7 @@
             "last_commit": "2026-08-11T21:49:59Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74030
+            "stars": 74043
           }
         },
         {
@@ -159,7 +159,7 @@
             "last_commit": "2026-08-10T14:39:24Z",
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29817
+            "stars": 29824
           }
         },
         {
@@ -173,7 +173,7 @@
             "last_commit": "2024-03-20T13:52:34Z",
             "owner": "donnemartin",
             "repo": "data-science-ipython-notebooks",
-            "stars": 29305
+            "stars": 29306
           }
         },
         {
@@ -187,7 +187,7 @@
             "last_commit": "2026-03-23T20:19:22Z",
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11417
+            "stars": 11419
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2025-09-18T16:46:19Z",
             "owner": "qinwf",
             "repo": "awesome-R",
-            "stars": 6495
+            "stars": 6496
           }
         },
         {
@@ -256,7 +256,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T20:03:35.668Z",
+    "last_updated": "2026-08-15T19:45:03.981Z",
     "original_repository": "infoculture/awesome-datajournalism",
     "original_repository_sha": "5c31d023d6c03e9be26af9b02d06b1991ebf846b",
     "enhanced_repository": "enhansome/enhansome-datajournalism",
