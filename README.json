@@ -100,10 +100,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-05T06:11:04Z",
+            "last_commit": "2026-08-16T13:31:43Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 314134
+            "stars": 314299
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2026-08-04T19:54:53Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78100
+            "stars": 78115
           }
         },
         {
@@ -131,7 +131,7 @@
             "last_commit": "2026-08-11T21:49:59Z",
             "owner": "josephmisiti",
             "repo": "awesome-machine-learning",
-            "stars": 74043
+            "stars": 74035
           }
         },
         {
@@ -145,7 +145,7 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33608
+            "stars": 33610
           }
         },
         {
@@ -159,7 +159,7 @@
             "last_commit": "2026-08-10T14:39:24Z",
             "owner": "academic",
             "repo": "awesome-datascience",
-            "stars": 29824
+            "stars": 29831
           }
         },
         {
@@ -187,7 +187,7 @@
             "last_commit": "2026-03-23T20:19:22Z",
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11419
+            "stars": 11420
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2025-09-18T16:46:19Z",
             "owner": "qinwf",
             "repo": "awesome-R",
-            "stars": 6496
+            "stars": 6497
           }
         },
         {
@@ -256,7 +256,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T19:45:03.981Z",
+    "last_updated": "2026-08-16T19:44:26.786Z",
     "original_repository": "infoculture/awesome-datajournalism",
     "original_repository_sha": "5c31d023d6c03e9be26af9b02d06b1991ebf846b",
     "enhanced_repository": "enhansome/enhansome-datajournalism",

@@ -240,7 +240,7 @@ The practice rests on **three interconnected pillars**:
 
 ### Audio and video
 
-* [Whisper (OpenAI)](https://github.com/openai/whisper) ⭐ 107,318 | 🐛 135 | 🌐 Python | 📅 2026-07-28 — Transcription, multilingual, local deployment
+* [Whisper (OpenAI)](https://github.com/openai/whisper) ⭐ 107,387 | 🐛 135 | 🌐 Python | 📅 2026-07-28 — Transcription, multilingual, local deployment
 * [Descript](https://www.descript.com/) — Text-based audio/video editing, Overdub, collaboration
 * [Remotion](https://www.remotion.dev/) — Programmatic video with React
 
@@ -342,14 +342,14 @@ The practice rests on **three interconnected pillars**:
 
 ### Other awesome lists
 
-* [awesome-python](https://github.com/vinta/awesome-python) ⭐ 314,134 | 🐛 27 | 🌐 Python | 📅 2026-08-05
-* [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) ⭐ 78,100 | 🐛 158 | 📅 2026-08-04
-* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,043 | 🐛 24 | 🌐 Python | 📅 2026-08-11
-* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,608 | 🐛 60 | 🌐 Ruby | 📅 2024-06-02
-* [awesome-datascience](https://github.com/academic/awesome-datascience) ⭐ 29,824 | 🐛 7 | 📅 2026-08-10 — Data science resources
+* [awesome-python](https://github.com/vinta/awesome-python) ⭐ 314,299 | 🐛 16 | 🌐 Python | 📅 2026-08-16
+* [awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets) ⭐ 78,115 | 🐛 158 | 📅 2026-08-04
+* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,035 | 🐛 24 | 🌐 Python | 📅 2026-08-11
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,610 | 🐛 60 | 🌐 Ruby | 📅 2024-06-02
+* [awesome-datascience](https://github.com/academic/awesome-datascience) ⭐ 29,831 | 🐛 7 | 📅 2026-08-10 — Data science resources
 * [Data Science IPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) ⭐ 29,306 | 🐛 48 | 🌐 Python | 📅 2024-03-20
-* [lists](https://github.com/jnv/lists) ⭐ 11,419 | 🐛 19 | 📅 2026-03-23
-* [awesome-R](https://github.com/qinwf/awesome-R) ⭐ 6,496 | 🐛 29 | 🌐 R | 📅 2025-09-18
+* [lists](https://github.com/jnv/lists) ⭐ 11,420 | 🐛 19 | 📅 2026-03-23
+* [awesome-R](https://github.com/qinwf/awesome-R) ⭐ 6,497 | 🐛 29 | 🌐 R | 📅 2025-09-18
 * [awesome-d3](https://github.com/wbkd/awesome-d3) ⭐ 5,313 | 🐛 5 | 📅 2023-01-13 — D3.js resources
 * [awesome-dataviz](https://github.com/fasouto/awesome-dataviz) ⭐ 4,380 | 🐛 37 | 📅 2024-01-26
 * [awesome-opendata-rus](https://github.com/infoculture/awesome-opendata-rus) ⭐ 226 | 🐛 1 | 📅 2021-12-16 — Open data in Russian
@@ -357,7 +357,7 @@ The practice rests on **three interconnected pillars**:
 ### Curated datasets and tool directories
 
 * [ProPublica Data Store](https://www.propublica.org/datastore/)
-* [FiveThirtyEight Data](https://github.com/fivethirtyeight/data) ⭐ 17,428 | 🐛 22 | 🌐 Jupyter Notebook | 📅 2025-02-25
+* [FiveThirtyEight Data](https://github.com/fivethirtyeight/data) ⭐ 17,427 | 🐛 22 | 🌐 Jupyter Notebook | 📅 2025-02-25
 * [BuzzFeed News GitHub](https://github.com/BuzzFeedNews) — Investigative data and replication
 * [Kaggle Datasets](https://www.kaggle.com/datasets)
 * [Google Dataset Search](https://datasetsearch.research.google.com/)
@@ -385,4 +385,4 @@ The practice rests on **three interconnected pillars**:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
