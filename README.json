@@ -1,263 +1,231 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Finding Stories in Spreadsheets",
+              "description": "Paul Bradshaw's guide to spreadsheet analysis",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97852965,
+                "language": "HTML",
+                "last_commit": "2026-08-13T10:31:52Z",
+                "owner": "paulbradshaw",
+                "repo": "MED7373-Data-Journalism",
+                "stars": 74
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Scraping for Journalists",
+              "description": "Web extraction techniques with legal guidance",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97852965,
+                "language": "HTML",
+                "last_commit": "2026-08-13T10:31:52Z",
+                "owner": "paulbradshaw",
+                "repo": "MED7373-Data-Journalism",
+                "stars": 74
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Specialized manuals"
+        }
+      ],
       "title": "Handbooks & guides"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Finding Stories in Spreadsheets",
-          "description": "Paul Bradshaw's guide to spreadsheet analysis",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-08-13T10:31:52Z",
-            "owner": "paulbradshaw",
-            "repo": "MED7373-Data-Journalism",
-            "stars": 74
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Scraping for Journalists",
-          "description": "Web extraction techniques with legal guidance",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-08-13T10:31:52Z",
-            "owner": "paulbradshaw",
-            "repo": "MED7373-Data-Journalism",
-            "stars": 74
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "awesome-python",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21289110,
+                "language": "Python",
+                "last_commit": "2026-08-16T13:31:43Z",
+                "owner": "vinta",
+                "repo": "awesome-python",
+                "stars": 314851
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-public-datasets",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26898879,
+                "language": null,
+                "last_commit": "2026-08-04T19:54:53Z",
+                "owner": "awesomedata",
+                "repo": "awesome-public-datasets",
+                "stars": 78143
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-machine-learning",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21872392,
+                "language": "Python",
+                "last_commit": "2026-08-11T21:49:59Z",
+                "owner": "josephmisiti",
+                "repo": "awesome-machine-learning",
+                "stars": 74070
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-awesomeness",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21600440,
+                "language": "Ruby",
+                "last_commit": "2024-06-02T22:46:41Z",
+                "owner": "bayandin",
+                "repo": "awesome-awesomeness",
+                "stars": 33609
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-datascience",
+              "description": "Data science resources",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21515044,
+                "language": null,
+                "last_commit": "2026-08-18T10:27:04Z",
+                "owner": "academic",
+                "repo": "awesome-datascience",
+                "stars": 29839
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Data Science IPython Notebooks",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29749635,
+                "language": "Python",
+                "last_commit": "2024-03-20T13:52:34Z",
+                "owner": "donnemartin",
+                "repo": "data-science-ipython-notebooks",
+                "stars": 29306
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lists",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14408715,
+                "language": null,
+                "last_commit": "2026-03-23T20:19:22Z",
+                "owner": "jnv",
+                "repo": "lists",
+                "stars": 11422
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-R",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22003158,
+                "language": "R",
+                "last_commit": "2025-09-18T16:46:19Z",
+                "owner": "qinwf",
+                "repo": "awesome-R",
+                "stars": 6499
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-d3",
+              "description": "D3.js resources",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35890808,
+                "language": null,
+                "last_commit": "2023-01-13T16:10:34Z",
+                "owner": "wbkd",
+                "repo": "awesome-d3",
+                "stars": 5314
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-dataviz",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39454666,
+                "language": null,
+                "last_commit": "2024-01-26T12:36:48Z",
+                "owner": "hal9ai",
+                "repo": "awesome-dataviz",
+                "stars": 4380
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-opendata-rus",
+              "description": "Open data in Russian",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51162468,
+                "language": null,
+                "last_commit": "2021-12-16T19:36:08Z",
+                "owner": "infoculture",
+                "repo": "awesome-opendata-rus",
+                "stars": 226
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Other awesome lists"
         }
       ],
-      "title": "Specialized manuals"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Education & learning"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Data sources"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Data collection tools"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Data analysis"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Data visualization"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Interactive storytelling"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Fact-checking & verification"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Newsrooms & publications"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Community & professional networks"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Related resources"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "awesome-python",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-16T13:31:43Z",
-            "owner": "vinta",
-            "repo": "awesome-python",
-            "stars": 314677
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-public-datasets",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-04T19:54:53Z",
-            "owner": "awesomedata",
-            "repo": "awesome-public-datasets",
-            "stars": 78142
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-machine-learning",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-11T21:49:59Z",
-            "owner": "josephmisiti",
-            "repo": "awesome-machine-learning",
-            "stars": 74061
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-awesomeness",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2024-06-02T22:46:41Z",
-            "owner": "bayandin",
-            "repo": "awesome-awesomeness",
-            "stars": 33609
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-datascience",
-          "description": "Data science resources",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-18T10:27:04Z",
-            "owner": "academic",
-            "repo": "awesome-datascience",
-            "stars": 29838
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Data Science IPython Notebooks",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-03-20T13:52:34Z",
-            "owner": "donnemartin",
-            "repo": "data-science-ipython-notebooks",
-            "stars": 29304
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lists",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-03-23T20:19:22Z",
-            "owner": "jnv",
-            "repo": "lists",
-            "stars": 11422
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-R",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2025-09-18T16:46:19Z",
-            "owner": "qinwf",
-            "repo": "awesome-R",
-            "stars": 6499
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-d3",
-          "description": "D3.js resources",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-01-13T16:10:34Z",
-            "owner": "wbkd",
-            "repo": "awesome-d3",
-            "stars": 5313
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-dataviz",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-01-26T12:36:48Z",
-            "owner": "hal9ai",
-            "repo": "awesome-dataviz",
-            "stars": 4379
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-opendata-rus",
-          "description": "Open data in Russian",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2021-12-16T19:36:08Z",
-            "owner": "infoculture",
-            "repo": "awesome-opendata-rus",
-            "stars": 226
-          }
-        }
-      ],
-      "title": "Other awesome lists"
-    },
-    {
-      "description": "For key sources used in this list, see e.g. Data Journalism Handbook, Media Helping Media, MIT KSJ Data Journalism Tools.",
-      "items": [],
-      "title": "Quick reference: Data journalism workflow"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T19:49:08.151Z",
+    "last_updated": "2026-08-19T12:30:27.283Z",
     "original_repository": "infoculture/awesome-datajournalism",
+    "original_repository_id": 50448845,
     "original_repository_sha": "5c31d023d6c03e9be26af9b02d06b1991ebf846b",
     "enhanced_repository": "enhansome/enhansome-datajournalism",
     "enhanced_repository_description": null,
