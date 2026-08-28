@@ -60,7 +60,7 @@
                 "last_commit": "2026-08-25T04:08:40Z",
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 316379
+                "stars": 316553
               }
             },
             {
@@ -72,10 +72,10 @@
                 "archived": false,
                 "id": 26898879,
                 "language": null,
-                "last_commit": "2026-08-26T21:15:40Z",
+                "last_commit": "2026-08-27T22:41:18Z",
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 78669
+                "stars": 78680
               }
             },
             {
@@ -87,10 +87,10 @@
                 "archived": false,
                 "id": 21872392,
                 "language": "Python",
-                "last_commit": "2026-08-26T21:09:24Z",
+                "last_commit": "2026-08-27T15:29:10Z",
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74177
+                "stars": 74188
               }
             },
             {
@@ -105,7 +105,7 @@
                 "last_commit": "2024-06-02T22:46:41Z",
                 "owner": "bayandin",
                 "repo": "awesome-awesomeness",
-                "stars": 33628
+                "stars": 33632
               }
             },
             {
@@ -117,10 +117,10 @@
                 "archived": false,
                 "id": 21515044,
                 "language": null,
-                "last_commit": "2026-08-26T17:06:22Z",
+                "last_commit": "2026-08-27T15:40:38Z",
                 "owner": "academic",
                 "repo": "awesome-datascience",
-                "stars": 29876
+                "stars": 29882
               }
             },
             {
@@ -150,7 +150,7 @@
                 "last_commit": "2026-03-23T20:19:22Z",
                 "owner": "jnv",
                 "repo": "lists",
-                "stars": 11439
+                "stars": 11442
               }
             },
             {
@@ -195,7 +195,7 @@
                 "last_commit": "2024-01-26T12:36:48Z",
                 "owner": "hal9ai",
                 "repo": "awesome-dataviz",
-                "stars": 4389
+                "stars": 4390
               }
             },
             {
@@ -245,7 +245,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:31:41.940Z",
+    "last_updated": "2026-08-28T03:38:53.995Z",
     "original_repository_info": {
       "archived": false,
       "id": 50448845,
