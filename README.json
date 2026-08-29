@@ -18,7 +18,8 @@
                 "owner": "paulbradshaw",
                 "repo": "MED7373-Data-Journalism",
                 "stars": 75
-              }
+              },
+              "first_seen": "2026-08-29T02:22:31.908Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "paulbradshaw",
                 "repo": "MED7373-Data-Journalism",
                 "stars": 75
-              }
+              },
+              "first_seen": "2026-08-29T02:22:31.908Z"
             }
           ],
           "description": null,
@@ -60,8 +62,9 @@
                 "last_commit": "2026-08-25T04:08:40Z",
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 316553
-              }
+                "stars": 316789
+              },
+              "first_seen": "2026-08-29T02:22:31.908Z"
             },
             {
               "node_type": "item",
@@ -72,11 +75,12 @@
                 "archived": false,
                 "id": 26898879,
                 "language": null,
-                "last_commit": "2026-08-27T22:41:18Z",
+                "last_commit": "2026-08-28T16:22:22Z",
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 78680
-              }
+                "stars": 78693
+              },
+              "first_seen": "2026-08-29T02:22:31.908Z"
             },
             {
               "node_type": "item",
@@ -90,8 +94,9 @@
                 "last_commit": "2026-08-27T15:29:10Z",
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74188
-              }
+                "stars": 74202
+              },
+              "first_seen": "2026-08-29T02:22:31.908Z"
             },
             {
               "node_type": "item",
@@ -105,8 +110,9 @@
                 "last_commit": "2024-06-02T22:46:41Z",
                 "owner": "bayandin",
                 "repo": "awesome-awesomeness",
-                "stars": 33632
-              }
+                "stars": 33634
+              },
+              "first_seen": "2026-08-29T02:22:31.908Z"
             },
             {
               "node_type": "item",
@@ -120,8 +126,9 @@
                 "last_commit": "2026-08-27T15:40:38Z",
                 "owner": "academic",
                 "repo": "awesome-datascience",
-                "stars": 29882
-              }
+                "stars": 29886
+              },
+              "first_seen": "2026-08-29T02:22:31.908Z"
             },
             {
               "node_type": "item",
@@ -135,8 +142,9 @@
                 "last_commit": "2024-03-20T13:52:34Z",
                 "owner": "donnemartin",
                 "repo": "data-science-ipython-notebooks",
-                "stars": 29327
-              }
+                "stars": 29331
+              },
+              "first_seen": "2026-08-29T02:22:31.908Z"
             },
             {
               "node_type": "item",
@@ -150,8 +158,9 @@
                 "last_commit": "2026-03-23T20:19:22Z",
                 "owner": "jnv",
                 "repo": "lists",
-                "stars": 11442
-              }
+                "stars": 11441
+              },
+              "first_seen": "2026-08-29T02:22:31.908Z"
             },
             {
               "node_type": "item",
@@ -165,8 +174,9 @@
                 "last_commit": "2025-09-18T16:46:19Z",
                 "owner": "qinwf",
                 "repo": "awesome-R",
-                "stars": 6507
-              }
+                "stars": 6506
+              },
+              "first_seen": "2026-08-29T02:22:31.908Z"
             },
             {
               "node_type": "item",
@@ -181,7 +191,8 @@
                 "owner": "wbkd",
                 "repo": "awesome-d3",
                 "stars": 5318
-              }
+              },
+              "first_seen": "2026-08-29T02:22:31.908Z"
             },
             {
               "node_type": "item",
@@ -195,8 +206,9 @@
                 "last_commit": "2024-01-26T12:36:48Z",
                 "owner": "hal9ai",
                 "repo": "awesome-dataviz",
-                "stars": 4390
-              }
+                "stars": 4391
+              },
+              "first_seen": "2026-08-29T02:22:31.908Z"
             },
             {
               "node_type": "item",
@@ -211,7 +223,8 @@
                 "owner": "infoculture",
                 "repo": "awesome-opendata-rus",
                 "stars": 226
-              }
+              },
+              "first_seen": "2026-08-29T02:22:31.908Z"
             }
           ],
           "description": null,
@@ -232,8 +245,9 @@
                 "last_commit": "2025-02-25T19:40:33Z",
                 "owner": "fivethirtyeight",
                 "repo": "data",
-                "stars": 17433
-              }
+                "stars": 17431
+              },
+              "first_seen": "2026-08-29T02:22:31.908Z"
             }
           ],
           "description": null,
@@ -245,7 +259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T03:38:53.995Z",
+    "last_updated": "2026-08-29T02:22:31.908Z",
     "original_repository_info": {
       "archived": false,
       "id": 50448845,
