@@ -12,12 +12,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Module on the MA Data Journalism at Birmingham City University",
+                "homepage": null,
                 "id": 97852965,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2026-08-13T10:31:52Z",
+                "open_issues": 1,
                 "owner": "paulbradshaw",
                 "repo": "MED7373-Data-Journalism",
-                "stars": 75
+                "stars": 75,
+                "topics": [
+                  "bcu",
+                  "madj"
+                ]
               },
               "first_seen": "2026-08-29T02:22:31.908Z"
             },
@@ -28,12 +36,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Module on the MA Data Journalism at Birmingham City University",
+                "homepage": null,
                 "id": 97852965,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2026-08-13T10:31:52Z",
+                "open_issues": 1,
                 "owner": "paulbradshaw",
                 "repo": "MED7373-Data-Journalism",
-                "stars": 75
+                "stars": 75,
+                "topics": [
+                  "bcu",
+                  "madj"
+                ]
               },
               "first_seen": "2026-08-29T02:22:31.908Z"
             }
@@ -57,12 +73,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+                "homepage": "https://awesome-python.com/",
                 "id": 21289110,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-25T04:08:40Z",
+                "open_issues": 19,
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 316789
+                "stars": 316808,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "python",
+                  "python-frameworks",
+                  "python-libraries",
+                  "python-tools"
+                ]
               },
               "first_seen": "2026-08-29T02:22:31.908Z"
             },
@@ -73,12 +101,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A topic-centric list of HQ open datasets.",
+                "homepage": "https://awesomedataworld.slack.com",
                 "id": 26898879,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-08-28T16:22:22Z",
+                "open_issues": 159,
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 78693
+                "stars": 78694,
+                "topics": [
+                  "aaron-swartz",
+                  "awesome-public-datasets",
+                  "datasets",
+                  "opendata"
+                ]
               },
               "first_seen": "2026-08-29T02:22:31.908Z"
             },
@@ -89,12 +127,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+                "homepage": null,
                 "id": 21872392,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T15:29:10Z",
+                "open_issues": 29,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74202
+                "stars": 74202,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:22:31.908Z"
             },
@@ -105,12 +148,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome awesomeness",
+                "homepage": null,
                 "id": 21600440,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2024-06-02T22:46:41Z",
+                "open_issues": 61,
                 "owner": "bayandin",
                 "repo": "awesome-awesomeness",
-                "stars": 33634
+                "stars": 33634,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:22:31.908Z"
             },
@@ -121,12 +169,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":memo: An awesome Data Science repository to learn and apply for real world problems.",
+                "homepage": null,
                 "id": 21515044,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-08-27T15:40:38Z",
+                "open_issues": 8,
                 "owner": "academic",
                 "repo": "awesome-datascience",
-                "stars": 29886
+                "stars": 29887,
+                "topics": [
+                  "analytics",
+                  "awesome-list",
+                  "data-mining",
+                  "data-science",
+                  "data-scientists",
+                  "data-visualization",
+                  "deep-learning",
+                  "hacktoberfest",
+                  "machine-learning",
+                  "science"
+                ]
               },
               "first_seen": "2026-08-29T02:22:31.908Z"
             },
@@ -137,12 +201,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.",
+                "homepage": null,
                 "id": 29749635,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-03-20T13:52:34Z",
+                "open_issues": 48,
                 "owner": "donnemartin",
                 "repo": "data-science-ipython-notebooks",
-                "stars": 29331
+                "stars": 29331,
+                "topics": [
+                  "aws",
+                  "big-data",
+                  "caffe",
+                  "data-science",
+                  "deep-learning",
+                  "hadoop",
+                  "kaggle",
+                  "keras",
+                  "machine-learning",
+                  "mapreduce",
+                  "matplotlib",
+                  "numpy",
+                  "pandas",
+                  "python",
+                  "scikit-learn",
+                  "scipy",
+                  "spark",
+                  "tensorflow",
+                  "theano"
+                ]
               },
               "first_seen": "2026-08-29T02:22:31.908Z"
             },
@@ -153,12 +242,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The definitive list of lists (of lists) curated on GitHub and elsewhere",
+                "homepage": null,
                 "id": 14408715,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-03-23T20:19:22Z",
+                "open_issues": 22,
                 "owner": "jnv",
                 "repo": "lists",
-                "stars": 11441
+                "stars": 11441,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "curated-lists",
+                  "lists",
+                  "resources"
+                ]
               },
               "first_seen": "2026-08-29T02:22:31.908Z"
             },
@@ -169,12 +269,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome R packages, frameworks and software.",
+                "homepage": null,
                 "id": 22003158,
                 "language": "R",
+                "license": null,
                 "last_commit": "2025-09-18T16:46:19Z",
+                "open_issues": 30,
                 "owner": "qinwf",
                 "repo": "awesome-R",
-                "stars": 6506
+                "stars": 6507,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "data-analysis",
+                  "data-science",
+                  "list",
+                  "r",
+                  "rstats"
+                ]
               },
               "first_seen": "2026-08-29T02:22:31.908Z"
             },
@@ -185,12 +298,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of D3 libraries, plugins and utilities",
+                "homepage": "https://d3-discovery.net/",
                 "id": 35890808,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2023-01-13T16:10:34Z",
+                "open_issues": 5,
                 "owner": "wbkd",
                 "repo": "awesome-d3",
-                "stars": 5318
+                "stars": 5318,
+                "topics": [
+                  "charts",
+                  "d3js",
+                  "datavisualization",
+                  "javascript",
+                  "maps"
+                ]
               },
               "first_seen": "2026-08-29T02:22:31.908Z"
             },
@@ -201,12 +325,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":chart_with_upwards_trend:  A curated list of awesome data visualization libraries and resources.",
+                "homepage": null,
                 "id": 39454666,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2024-01-26T12:36:48Z",
+                "open_issues": 39,
                 "owner": "hal9ai",
                 "repo": "awesome-dataviz",
-                "stars": 4391
+                "stars": 4391,
+                "topics": [
+                  "awesome-list",
+                  "chart",
+                  "data-visualization",
+                  "dataviz",
+                  "visualization",
+                  "visualize-data"
+                ]
               },
               "first_seen": "2026-08-29T02:22:31.908Z"
             },
@@ -217,12 +353,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Opendata resources in Russian / Открытые данные на русском языке",
+                "homepage": null,
                 "id": 51162468,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2021-12-16T19:36:08Z",
+                "open_issues": 1,
                 "owner": "infoculture",
                 "repo": "awesome-opendata-rus",
-                "stars": 226
+                "stars": 226,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "data",
+                  "moscow-data-science",
+                  "okf-russia",
+                  "open-data",
+                  "opendata",
+                  "opendata-resources",
+                  "russian"
+                ]
               },
               "first_seen": "2026-08-29T02:22:31.908Z"
             }
@@ -240,12 +391,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Data and code behind the articles and graphics at FiveThirtyEight",
+                "homepage": "https://data.fivethirtyeight.com/",
                 "id": 17829481,
                 "language": "Jupyter Notebook",
+                "license": "CC-BY-4.0",
                 "last_commit": "2025-02-25T19:40:33Z",
+                "open_issues": 22,
                 "owner": "fivethirtyeight",
                 "repo": "data",
-                "stars": 17431
+                "stars": 17431,
+                "topics": [
+                  "data"
+                ]
               },
               "first_seen": "2026-08-29T02:22:31.908Z"
             }
@@ -259,15 +417,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:22:31.908Z",
+    "last_updated": "2026-08-29T04:48:25.281Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome list for data journalists and future data journalists",
+      "homepage": null,
       "id": 50448845,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-04-09T17:35:04Z",
+      "open_issues": 5,
       "owner": "infoculture",
       "repo": "awesome-datajournalism",
-      "stars": 233
+      "stars": 233,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "data-driven-journalism",
+        "data-journalism",
+        "data-journalists",
+        "data-visualization",
+        "journalists",
+        "opendata",
+        "visualization"
+      ]
     },
     "original_repository_sha": "5c31d023d6c03e9be26af9b02d06b1991ebf846b",
     "enhanced_repository": "enhansome/enhansome-datajournalism",
