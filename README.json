@@ -69,7 +69,7 @@
             {
               "node_type": "item",
               "title": "awesome-python",
-              "description": null,
+              "description": "vinta/awesome-python",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -79,10 +79,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-02T12:01:28Z",
-                "open_issues": 20,
+                "open_issues": 21,
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 324741,
+                "stars": 324779,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -97,7 +97,7 @@
             {
               "node_type": "item",
               "title": "awesome-public-datasets",
-              "description": null,
+              "description": "awesomedata/awesome-public-datasets",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -110,7 +110,7 @@
                 "open_issues": 161,
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 79276,
+                "stars": 79277,
                 "topics": [
                   "aaron-swartz",
                   "awesome-public-datasets",
@@ -123,7 +123,7 @@
             {
               "node_type": "item",
               "title": "awesome-machine-learning",
-              "description": null,
+              "description": "josephmisiti/awesome-machine-learning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -136,7 +136,7 @@
                 "open_issues": 22,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74510,
+                "stars": 74511,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:22:31.908Z"
@@ -144,7 +144,7 @@
             {
               "node_type": "item",
               "title": "awesome-awesomeness",
-              "description": null,
+              "description": "bayandin/awesome-awesomeness",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -178,7 +178,7 @@
                 "open_issues": 11,
                 "owner": "academic",
                 "repo": "awesome-datascience",
-                "stars": 30102,
+                "stars": 30103,
                 "topics": [
                   "analytics",
                   "awesome-list",
@@ -197,7 +197,7 @@
             {
               "node_type": "item",
               "title": "Data Science IPython Notebooks",
-              "description": null,
+              "description": "donnemartin/data-science-ipython-notebooks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -238,7 +238,7 @@
             {
               "node_type": "item",
               "title": "lists",
-              "description": null,
+              "description": "jnv/lists",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -251,7 +251,7 @@
                 "open_issues": 32,
                 "owner": "jnv",
                 "repo": "lists",
-                "stars": 11518,
+                "stars": 11520,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -265,7 +265,7 @@
             {
               "node_type": "item",
               "title": "awesome-R",
-              "description": null,
+              "description": "qinwf/awesome-R",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -278,7 +278,7 @@
                 "open_issues": 28,
                 "owner": "qinwf",
                 "repo": "awesome-R",
-                "stars": 6515,
+                "stars": 6516,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -321,7 +321,7 @@
             {
               "node_type": "item",
               "title": "awesome-dataviz",
-              "description": null,
+              "description": "hal9ai/awesome-dataviz",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -387,7 +387,7 @@
             {
               "node_type": "item",
               "title": "FiveThirtyEight Data",
-              "description": null,
+              "description": "fivethirtyeight/data",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -417,7 +417,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T23:08:58.251Z",
+    "last_updated": "2026-10-03T04:39:34.322Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list for data journalists and future data journalists",
