@@ -78,11 +78,11 @@
                 "id": 21289110,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-26T04:44:34Z",
-                "open_issues": 18,
+                "last_commit": "2026-10-27T13:08:24Z",
+                "open_issues": 20,
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 330465,
+                "stars": 330692,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -110,7 +110,7 @@
                 "open_issues": 165,
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 79760,
+                "stars": 79803,
                 "topics": [
                   "aaron-swartz",
                   "awesome-public-datasets",
@@ -132,11 +132,11 @@
                 "id": 21872392,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-22T18:52:55Z",
-                "open_issues": 27,
+                "last_commit": "2026-10-27T19:21:38Z",
+                "open_issues": 28,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74667,
+                "stars": 74677,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:22:31.908Z"
@@ -157,7 +157,7 @@
                 "open_issues": 64,
                 "owner": "bayandin",
                 "repo": "awesome-awesomeness",
-                "stars": 33749,
+                "stars": 33751,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:22:31.908Z"
@@ -174,11 +174,11 @@
                 "id": 21515044,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-10-25T12:57:04Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-27T18:07:54Z",
+                "open_issues": 7,
                 "owner": "academic",
                 "repo": "awesome-datascience",
-                "stars": 30244,
+                "stars": 30248,
                 "topics": [
                   "analytics",
                   "awesome-list",
@@ -251,7 +251,7 @@
                 "open_issues": 32,
                 "owner": "jnv",
                 "repo": "lists",
-                "stars": 11598,
+                "stars": 11602,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -278,7 +278,7 @@
                 "open_issues": 30,
                 "owner": "qinwf",
                 "repo": "awesome-R",
-                "stars": 6533,
+                "stars": 6534,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -330,11 +330,11 @@
                 "id": 39454666,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-16T16:12:31Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-27T22:24:57Z",
+                "open_issues": 0,
                 "owner": "hal9ai",
                 "repo": "awesome-dataviz",
-                "stars": 4442,
+                "stars": 4443,
                 "topics": [
                   "awesome-list",
                   "chart",
@@ -397,10 +397,10 @@
                 "language": "Jupyter Notebook",
                 "license": "CC-BY-4.0",
                 "last_commit": "2025-02-25T19:40:33Z",
-                "open_issues": 22,
+                "open_issues": 23,
                 "owner": "fivethirtyeight",
                 "repo": "data",
-                "stars": 17484,
+                "stars": 17483,
                 "topics": [
                   "data"
                 ]
@@ -417,7 +417,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T23:14:54.897Z",
+    "last_updated": "2026-10-27T23:03:30.800Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list for data journalists and future data journalists",
