@@ -79,10 +79,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-29T12:38:48Z",
-                "open_issues": 22,
+                "open_issues": 23,
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 331191,
+                "stars": 331403,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -107,10 +107,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-10-28T16:46:19Z",
-                "open_issues": 166,
+                "open_issues": 167,
                 "owner": "awesomedata",
                 "repo": "awesome-public-datasets",
-                "stars": 79843,
+                "stars": 79860,
                 "topics": [
                   "aaron-swartz",
                   "awesome-public-datasets",
@@ -136,7 +136,7 @@
                 "open_issues": 31,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74690,
+                "stars": 74692,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:22:31.908Z"
@@ -157,7 +157,7 @@
                 "open_issues": 65,
                 "owner": "bayandin",
                 "repo": "awesome-awesomeness",
-                "stars": 33758,
+                "stars": 33757,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:22:31.908Z"
@@ -178,7 +178,7 @@
                 "open_issues": 9,
                 "owner": "academic",
                 "repo": "awesome-datascience",
-                "stars": 30248,
+                "stars": 30249,
                 "topics": [
                   "analytics",
                   "awesome-list",
@@ -210,7 +210,7 @@
                 "open_issues": 48,
                 "owner": "donnemartin",
                 "repo": "data-science-ipython-notebooks",
-                "stars": 29383,
+                "stars": 29384,
                 "topics": [
                   "aws",
                   "big-data",
@@ -247,11 +247,11 @@
                 "id": 14408715,
                 "language": null,
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-29T19:14:47Z",
+                "last_commit": "2026-10-30T21:52:58Z",
                 "open_issues": 0,
                 "owner": "jnv",
                 "repo": "lists",
-                "stars": 11610,
+                "stars": 11615,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -278,7 +278,7 @@
                 "open_issues": 30,
                 "owner": "qinwf",
                 "repo": "awesome-R",
-                "stars": 6535,
+                "stars": 6537,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -334,7 +334,7 @@
                 "open_issues": 0,
                 "owner": "hal9ai",
                 "repo": "awesome-dataviz",
-                "stars": 4444,
+                "stars": 4445,
                 "topics": [
                   "awesome-list",
                   "chart",
@@ -417,7 +417,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T23:29:28.984Z",
+    "last_updated": "2026-10-30T23:06:00.516Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list for data journalists and future data journalists",
